@@ -13,7 +13,7 @@ currently working on a <40V to 5V buck converter
 
 - 10 ohm resistor connected as a test load between OUTPUT and GND
 
-Schematic + SPICE Directives (custom part in ./LTSpice):
+Schematic + SPICE Directives (custom part found in `LTSpice/`):
 <img width="1753" height="528" alt="image" src="https://github.com/user-attachments/assets/67cac206-5660-4d0e-945d-50635854c98d" />
 
 Voltage at OUT Pin (duty cycle):
