@@ -1,5 +1,5 @@
 # buck-converter
-currently working on a <40V to 5V buck converter
+5V DC-DC Buck Converter
 
 ## Electrical Components
 
