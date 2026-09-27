@@ -21,7 +21,7 @@ Voltage Plot:
 
 - Green: Input
 - Blue: Output
-- Red: reference voltage (at FB)
+- Red: duty cycle
 
 Current Plot:
 <img width="1892" height="372" alt="image" src="https://github.com/user-attachments/assets/f39ded14-42d9-4a2a-8241-5ec44d401dbb" />
