@@ -1,0 +1,37 @@
+* Spice Model
+* Item: 1N5820
+* Date: 9/11/19
+* Revision History: A
+*==========================================================
+* This model was developed by: 
+* Central Semiconductor, LLC.
+* 145 Adams Avenue
+* Hauppauge, NY 11788
+*
+* These models are subject to change without notice.
+* Users may not directly or indirectly re-sell or 
+* re-distribute this model. This model may not 
+* be modified, or altered without the consent of Central Semiconductor, LLC. 
+*
+* For more information on this model contact
+* Central Semiconductor, LLC. at:
+* (631) 435-1110 or https://aeminc.com/en/contact-us
+*
+**==========================================================
+*DEVICE=1N5820,D
+* 1N5820 D model
+* created using Model Editor release 17.2.0 on 09/11/19 at 10:56
+* The Model Editor is a PSpice product.
+.MODEL 1N5820 D
++ IS=1.6675E-6
++ N=1.0171
++ RS=17.058E-3
++ IKF=20.819
++ CJO=463.53E-12
++ M=1.2861
++ VJ=9.9900
++ ISR=1.3559E-6
++ NR=4.9950
++ BV=20.108
++ IBV=.12934
++ TT=36.995E-9
